@@ -2148,6 +2148,296 @@ Based on the previous libraries:
 &lt;/ul&gt;
 &lt;author&gt;Created by librarian@cadsoft.de&lt;/author&gt;</description>
 <packages>
+<package name="MKDSN1,5/9-5,08">
+<description>&lt;b&gt;MKDSN 1,5/ 9-5,08&lt;/b&gt; Printklemme&lt;p&gt;
+Nennstrom: 13,5 A&lt;br&gt;
+Nennspannung: 250 V&lt;br&gt;
+Rastermaß: 5,08 mm&lt;br&gt;
+Polzahl: 9&lt;br&gt;
+Anschlussart: Schraubanschluss&lt;br&gt;
+Montage: Löten&lt;br&gt;
+Anschlussrichtung Leiter/Platine: 0 °&lt;br&gt;
+Artikelnummer: 1729199&lt;br&gt;
+Source: http://eshop.phoenixcontact.com .. 1729199.pdf</description>
+<wire x1="-22.8811" y1="-4.05" x2="22.8389" y2="-4.05" width="0.2032" layer="21"/>
+<wire x1="-22.8811" y1="2.5243" x2="22.8389" y2="2.5243" width="0.2032" layer="21"/>
+<wire x1="-20.5011" y1="-0.63" x2="-21.4141" y2="-1.543" width="0.2032" layer="51"/>
+<wire x1="-22.8811" y1="-1.9555" x2="-22.8811" y2="-2.4479" width="0.2032" layer="21"/>
+<wire x1="-22.8811" y1="-3.327" x2="-23.0098" y2="-3.327" width="0.2032" layer="21"/>
+<wire x1="-23.0098" y1="-2.913" x2="-22.8811" y2="-2.913" width="0.2032" layer="21"/>
+<wire x1="-22.8811" y1="-3.1279" x2="-22.8811" y2="-2.913" width="0.2032" layer="21"/>
+<wire x1="-22.8811" y1="-3.327" x2="-22.8811" y2="-3.1279" width="0.2032" layer="21"/>
+<wire x1="-23.4511" y1="-2.763" x2="-23.1881" y2="-2.763" width="0.2032" layer="21"/>
+<wire x1="-23.4511" y1="-3.477" x2="-23.1881" y2="-3.477" width="0.2032" layer="21"/>
+<wire x1="-22.8811" y1="-2.913" x2="-22.8811" y2="-2.4479" width="0.2032" layer="21"/>
+<wire x1="-23.0098" y1="-3.327" x2="-23.1881" y2="-3.477" width="0.2032" layer="21"/>
+<wire x1="-23.4511" y1="-2.763" x2="-23.4511" y2="-3.477" width="0.2032" layer="21"/>
+<wire x1="-22.8811" y1="2.5243" x2="-22.8811" y2="2.0413" width="0.2032" layer="21"/>
+<wire x1="-22.8811" y1="-1.9555" x2="-22.8811" y2="2.0413" width="0.2032" layer="21"/>
+<wire x1="-23.1881" y1="-2.763" x2="-23.0098" y2="-2.913" width="0.2032" layer="21"/>
+<wire x1="22.8389" y1="-2.4479" x2="-22.8811" y2="-2.4479" width="0.2032" layer="21"/>
+<wire x1="-20.3411" y1="-0.47" x2="-20.5011" y2="-0.63" width="0.2032" layer="51"/>
+<wire x1="-20.9801" y1="-0.119" x2="-20.3411" y2="0.52" width="0.2032" layer="51"/>
+<wire x1="-21.9091" y1="-1.048" x2="-20.9801" y2="-0.119" width="0.2032" layer="51"/>
+<wire x1="-16.8291" y1="-1.048" x2="-15.9001" y2="-0.119" width="0.2032" layer="51"/>
+<wire x1="22.8389" y1="-1.9555" x2="22.8389" y2="-2.4479" width="0.2032" layer="21"/>
+<wire x1="-15.4211" y1="-0.63" x2="-16.3341" y2="-1.543" width="0.2032" layer="51"/>
+<wire x1="-11.7491" y1="-1.048" x2="-10.8201" y2="-0.119" width="0.2032" layer="51"/>
+<wire x1="-10.3411" y1="-0.63" x2="-11.2541" y2="-1.543" width="0.2032" layer="51"/>
+<wire x1="-6.6691" y1="-1.048" x2="-5.7401" y2="-0.119" width="0.2032" layer="51"/>
+<wire x1="-5.2611" y1="-0.63" x2="-6.1741" y2="-1.543" width="0.2032" layer="51"/>
+<wire x1="-15.9001" y1="-0.119" x2="-15.2611" y2="0.52" width="0.2032" layer="51"/>
+<wire x1="-15.2611" y1="-0.47" x2="-15.4211" y2="-0.63" width="0.2032" layer="51"/>
+<wire x1="-13.6931" y1="1.098" x2="-14.6311" y2="0.16" width="0.2032" layer="51"/>
+<wire x1="-8.6131" y1="1.098" x2="-9.5511" y2="0.16" width="0.2032" layer="51"/>
+<wire x1="-3.5331" y1="1.098" x2="-4.4711" y2="0.16" width="0.2032" layer="51"/>
+<wire x1="1.5469" y1="1.098" x2="0.6089" y2="0.16" width="0.2032" layer="51"/>
+<wire x1="6.6269" y1="1.098" x2="5.6889" y2="0.16" width="0.2032" layer="51"/>
+<wire x1="-15.1421" y1="0.639" x2="-14.1881" y2="1.593" width="0.2032" layer="51"/>
+<wire x1="-10.0621" y1="0.639" x2="-9.1081" y2="1.593" width="0.2032" layer="51"/>
+<wire x1="-4.9821" y1="0.639" x2="-4.0281" y2="1.593" width="0.2032" layer="51"/>
+<wire x1="0.0979" y1="0.639" x2="1.0519" y2="1.593" width="0.2032" layer="51"/>
+<wire x1="5.1779" y1="0.639" x2="6.1319" y2="1.593" width="0.2032" layer="51"/>
+<wire x1="-10.1811" y1="0.52" x2="-10.0621" y2="0.639" width="0.2032" layer="51"/>
+<wire x1="-5.1011" y1="0.52" x2="-4.9821" y2="0.639" width="0.2032" layer="51"/>
+<wire x1="-0.0211" y1="0.52" x2="0.0979" y2="0.639" width="0.2032" layer="51"/>
+<wire x1="5.0589" y1="0.52" x2="5.1779" y2="0.639" width="0.2032" layer="51"/>
+<wire x1="-10.8201" y1="-0.119" x2="-10.1811" y2="0.52" width="0.2032" layer="51"/>
+<wire x1="-14.6311" y1="0.16" x2="-15.2611" y2="-0.47" width="0.2032" layer="51"/>
+<wire x1="-15.2611" y1="0.52" x2="-15.1421" y2="0.639" width="0.2032" layer="51"/>
+<wire x1="-4.4711" y1="0.16" x2="-5.1011" y2="-0.47" width="0.2032" layer="51"/>
+<wire x1="-5.7401" y1="-0.119" x2="-5.1011" y2="0.52" width="0.2032" layer="51"/>
+<wire x1="-9.5511" y1="0.16" x2="-10.1811" y2="-0.47" width="0.2032" layer="51"/>
+<wire x1="-0.6601" y1="-0.119" x2="-0.0211" y2="0.52" width="0.2032" layer="51"/>
+<wire x1="0.6089" y1="0.16" x2="-0.0211" y2="-0.47" width="0.2032" layer="51"/>
+<wire x1="5.6889" y1="0.16" x2="5.0589" y2="-0.47" width="0.2032" layer="51"/>
+<wire x1="4.4199" y1="-0.119" x2="5.0589" y2="0.52" width="0.2032" layer="51"/>
+<wire x1="-10.1811" y1="-0.47" x2="-10.3411" y2="-0.63" width="0.2032" layer="51"/>
+<wire x1="-5.1011" y1="-0.47" x2="-5.2611" y2="-0.63" width="0.2032" layer="51"/>
+<wire x1="-0.0211" y1="-0.47" x2="-0.1811" y2="-0.63" width="0.2032" layer="51"/>
+<wire x1="5.0589" y1="-0.47" x2="4.8989" y2="-0.63" width="0.2032" layer="51"/>
+<wire x1="-1.5891" y1="-1.048" x2="-0.6601" y2="-0.119" width="0.2032" layer="51"/>
+<wire x1="-0.1811" y1="-0.63" x2="-1.0941" y2="-1.543" width="0.2032" layer="51"/>
+<wire x1="4.8989" y1="-0.63" x2="3.9859" y2="-1.543" width="0.2032" layer="51"/>
+<wire x1="3.4909" y1="-1.048" x2="4.4199" y2="-0.119" width="0.2032" layer="51"/>
+<wire x1="-19.7111" y1="0.16" x2="-20.3411" y2="-0.47" width="0.2032" layer="51"/>
+<wire x1="-20.3411" y1="0.52" x2="-20.2221" y2="0.639" width="0.2032" layer="51"/>
+<wire x1="-20.2221" y1="0.639" x2="-19.2681" y2="1.593" width="0.2032" layer="51"/>
+<wire x1="-18.7731" y1="1.098" x2="-19.7111" y2="0.16" width="0.2032" layer="51"/>
+<wire x1="-22.8811" y1="-3.1279" x2="22.8389" y2="-3.1279" width="0.2032" layer="21"/>
+<wire x1="22.8389" y1="-3.1279" x2="22.8389" y2="-2.4479" width="0.2032" layer="21"/>
+<wire x1="22.8389" y1="-1.9555" x2="22.8389" y2="2.0413" width="0.2032" layer="21"/>
+<wire x1="22.8389" y1="2.5243" x2="22.8389" y2="2.0413" width="0.2032" layer="21"/>
+<wire x1="22.8389" y1="2.5243" x2="22.8389" y2="4.05" width="0.2032" layer="21"/>
+<wire x1="-22.8811" y1="-3.75" x2="-22.8811" y2="-3.327" width="0.2032" layer="21"/>
+<wire x1="22.8389" y1="-3.75" x2="22.8389" y2="-3.1279" width="0.2032" layer="21"/>
+<wire x1="-22.8811" y1="4.05" x2="22.8389" y2="4.05" width="0.2032" layer="21"/>
+<wire x1="-22.8811" y1="2.5243" x2="-22.8811" y2="4.05" width="0.2032" layer="21"/>
+<wire x1="22.8389" y1="-3.75" x2="-22.8811" y2="-3.75" width="0.2032" layer="21"/>
+<wire x1="-22.8811" y1="-3.75" x2="-22.8811" y2="-4.05" width="0.2032" layer="21"/>
+<wire x1="22.8389" y1="-3.75" x2="22.8389" y2="-4.05" width="0.2032" layer="21"/>
+<wire x1="-20.9801" y1="-0.119" x2="-20.5011" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="-15.9001" y1="-0.119" x2="-15.4211" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="5.6889" y1="0.16" x2="5.1779" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="0.6089" y1="0.16" x2="0.0979" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="-4.4711" y1="0.16" x2="-4.9821" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="-9.5511" y1="0.16" x2="-10.0621" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="-14.6311" y1="0.16" x2="-15.1421" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="-10.8201" y1="-0.119" x2="-10.3411" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="-5.7401" y1="-0.119" x2="-5.2611" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="-0.6601" y1="-0.119" x2="-0.1811" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="4.4199" y1="-0.119" x2="4.8989" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="-19.7111" y1="0.16" x2="-20.2221" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="9.9789" y1="-0.63" x2="9.0659" y2="-1.543" width="0.2032" layer="51"/>
+<wire x1="10.1389" y1="-0.47" x2="9.9789" y2="-0.63" width="0.2032" layer="51"/>
+<wire x1="9.4999" y1="-0.119" x2="10.1389" y2="0.52" width="0.2032" layer="51"/>
+<wire x1="8.5709" y1="-1.048" x2="9.4999" y2="-0.119" width="0.2032" layer="51"/>
+<wire x1="13.6509" y1="-1.048" x2="14.5799" y2="-0.119" width="0.2032" layer="51"/>
+<wire x1="15.0589" y1="-0.63" x2="14.1459" y2="-1.543" width="0.2032" layer="51"/>
+<wire x1="18.7309" y1="-1.048" x2="19.6599" y2="-0.119" width="0.2032" layer="51"/>
+<wire x1="20.1389" y1="-0.63" x2="19.2259" y2="-1.543" width="0.2032" layer="51"/>
+<wire x1="14.5799" y1="-0.119" x2="15.2189" y2="0.52" width="0.2032" layer="51"/>
+<wire x1="15.2189" y1="-0.47" x2="15.0589" y2="-0.63" width="0.2032" layer="51"/>
+<wire x1="16.7869" y1="1.098" x2="15.8489" y2="0.16" width="0.2032" layer="51"/>
+<wire x1="21.8669" y1="1.098" x2="20.9289" y2="0.16" width="0.2032" layer="51"/>
+<wire x1="15.3379" y1="0.639" x2="16.2919" y2="1.593" width="0.2032" layer="51"/>
+<wire x1="20.4179" y1="0.639" x2="21.3719" y2="1.593" width="0.2032" layer="51"/>
+<wire x1="20.2989" y1="0.52" x2="20.4179" y2="0.639" width="0.2032" layer="51"/>
+<wire x1="19.6599" y1="-0.119" x2="20.2989" y2="0.52" width="0.2032" layer="51"/>
+<wire x1="15.8489" y1="0.16" x2="15.2189" y2="-0.47" width="0.2032" layer="51"/>
+<wire x1="15.2189" y1="0.52" x2="15.3379" y2="0.639" width="0.2032" layer="51"/>
+<wire x1="20.9289" y1="0.16" x2="20.2989" y2="-0.47" width="0.2032" layer="51"/>
+<wire x1="20.2989" y1="-0.47" x2="20.1389" y2="-0.63" width="0.2032" layer="51"/>
+<wire x1="10.7689" y1="0.16" x2="10.1389" y2="-0.47" width="0.2032" layer="51"/>
+<wire x1="10.1389" y1="0.52" x2="10.2579" y2="0.639" width="0.2032" layer="51"/>
+<wire x1="10.2579" y1="0.639" x2="11.2119" y2="1.593" width="0.2032" layer="51"/>
+<wire x1="11.7069" y1="1.098" x2="10.7689" y2="0.16" width="0.2032" layer="51"/>
+<wire x1="9.4999" y1="-0.119" x2="9.9789" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="14.5799" y1="-0.119" x2="15.0589" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="20.9289" y1="0.16" x2="20.4179" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="15.8489" y1="0.16" x2="15.3379" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="19.6599" y1="-0.119" x2="20.1389" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="10.7689" y1="0.16" x2="10.2579" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
+<circle x="-20.3411" y="0.025" radius="1.915" width="0.2032" layer="21"/>
+<circle x="-15.2611" y="0.025" radius="1.915" width="0.2032" layer="21"/>
+<circle x="-10.1811" y="0.025" radius="1.915" width="0.2032" layer="21"/>
+<circle x="-5.1011" y="0.025" radius="1.915" width="0.2032" layer="21"/>
+<circle x="-0.0211" y="0.025" radius="1.915" width="0.2032" layer="21"/>
+<circle x="5.0589" y="0.025" radius="1.915" width="0.2032" layer="21"/>
+<circle x="10.1389" y="0.025" radius="1.915" width="0.2032" layer="21"/>
+<circle x="15.2189" y="0.025" radius="1.915" width="0.2032" layer="21"/>
+<circle x="20.2989" y="0.025" radius="1.915" width="0.2032" layer="21"/>
+<pad name="1" x="-20.3411" y="0.025" drill="1.3" diameter="2"/>
+<pad name="2" x="-15.2611" y="0.025" drill="1.3" diameter="2"/>
+<pad name="3" x="-10.1811" y="0.025" drill="1.3" diameter="2"/>
+<pad name="4" x="-5.1011" y="0.025" drill="1.3" diameter="2"/>
+<pad name="5" x="-0.0211" y="0.025" drill="1.3" diameter="2"/>
+<pad name="6" x="5.0589" y="0.025" drill="1.3" diameter="2"/>
+<pad name="7" x="10.1389" y="0.025" drill="1.3" diameter="2"/>
+<pad name="8" x="15.2189" y="0.025" drill="1.3" diameter="2"/>
+<pad name="9" x="20.2989" y="0.025" drill="1.3" diameter="2"/>
+<text x="-22.5311" y="4.445" size="1.27" layer="25">&gt;NAME</text>
+<text x="-13.97" y="4.445" size="1.27" layer="27">&gt;VALUE</text>
+</package>
+<package name="MKDSN1,5/8-5,08">
+<description>&lt;b&gt;MKDSN 1,5/ 8-5,08&lt;/b&gt; Printklemme&lt;p&gt;
+Nennstrom: 13,5 A&lt;br&gt;
+Nennspannung: 250 V&lt;br&gt;
+Rastermaß: 5,08 mm&lt;br&gt;
+Polzahl: 8&lt;br&gt;
+Anschlussart: Schraubanschluss&lt;br&gt;
+Montage: Löten&lt;br&gt;
+Anschlussrichtung Leiter/Platine: 0 °&lt;br&gt;
+Artikelnummer: 1729186&lt;br&gt;
+Source: http://eshop.phoenixcontact.com .. 1729186.pdf</description>
+<wire x1="-20.3411" y1="-4.05" x2="20.2989" y2="-4.05" width="0.2032" layer="21"/>
+<wire x1="-20.3411" y1="2.5243" x2="20.2989" y2="2.5243" width="0.2032" layer="21"/>
+<wire x1="-17.9611" y1="-0.63" x2="-18.8741" y2="-1.543" width="0.2032" layer="51"/>
+<wire x1="-20.3411" y1="-1.9555" x2="-20.3411" y2="-2.4479" width="0.2032" layer="21"/>
+<wire x1="-20.3411" y1="-3.327" x2="-20.4698" y2="-3.327" width="0.2032" layer="21"/>
+<wire x1="-20.4698" y1="-2.913" x2="-20.3411" y2="-2.913" width="0.2032" layer="21"/>
+<wire x1="-20.3411" y1="-3.1279" x2="-20.3411" y2="-2.913" width="0.2032" layer="21"/>
+<wire x1="-20.3411" y1="-3.327" x2="-20.3411" y2="-3.1279" width="0.2032" layer="21"/>
+<wire x1="-20.9111" y1="-2.763" x2="-20.6481" y2="-2.763" width="0.2032" layer="21"/>
+<wire x1="-20.9111" y1="-3.477" x2="-20.6481" y2="-3.477" width="0.2032" layer="21"/>
+<wire x1="-20.3411" y1="-2.913" x2="-20.3411" y2="-2.4479" width="0.2032" layer="21"/>
+<wire x1="-20.4698" y1="-3.327" x2="-20.6481" y2="-3.477" width="0.2032" layer="21"/>
+<wire x1="-20.9111" y1="-2.763" x2="-20.9111" y2="-3.477" width="0.2032" layer="21"/>
+<wire x1="-20.3411" y1="2.5243" x2="-20.3411" y2="2.0413" width="0.2032" layer="21"/>
+<wire x1="-20.3411" y1="-1.9555" x2="-20.3411" y2="2.0413" width="0.2032" layer="21"/>
+<wire x1="-20.6481" y1="-2.763" x2="-20.4698" y2="-2.913" width="0.2032" layer="21"/>
+<wire x1="20.2989" y1="-2.4479" x2="-20.3411" y2="-2.4479" width="0.2032" layer="21"/>
+<wire x1="-17.8011" y1="-0.47" x2="-17.9611" y2="-0.63" width="0.2032" layer="51"/>
+<wire x1="-18.4401" y1="-0.119" x2="-17.8011" y2="0.52" width="0.2032" layer="51"/>
+<wire x1="-19.3691" y1="-1.048" x2="-18.4401" y2="-0.119" width="0.2032" layer="51"/>
+<wire x1="-14.2891" y1="-1.048" x2="-13.3601" y2="-0.119" width="0.2032" layer="51"/>
+<wire x1="20.2989" y1="-1.9555" x2="20.2989" y2="-2.4479" width="0.2032" layer="21"/>
+<wire x1="-12.8811" y1="-0.63" x2="-13.7941" y2="-1.543" width="0.2032" layer="51"/>
+<wire x1="-9.2091" y1="-1.048" x2="-8.2801" y2="-0.119" width="0.2032" layer="51"/>
+<wire x1="-7.8011" y1="-0.63" x2="-8.7141" y2="-1.543" width="0.2032" layer="51"/>
+<wire x1="-4.1291" y1="-1.048" x2="-3.2001" y2="-0.119" width="0.2032" layer="51"/>
+<wire x1="-2.7211" y1="-0.63" x2="-3.6341" y2="-1.543" width="0.2032" layer="51"/>
+<wire x1="-13.3601" y1="-0.119" x2="-12.7211" y2="0.52" width="0.2032" layer="51"/>
+<wire x1="-12.7211" y1="-0.47" x2="-12.8811" y2="-0.63" width="0.2032" layer="51"/>
+<wire x1="-11.1531" y1="1.098" x2="-12.0911" y2="0.16" width="0.2032" layer="51"/>
+<wire x1="-6.0731" y1="1.098" x2="-7.0111" y2="0.16" width="0.2032" layer="51"/>
+<wire x1="-0.9931" y1="1.098" x2="-1.9311" y2="0.16" width="0.2032" layer="51"/>
+<wire x1="4.0869" y1="1.098" x2="3.1489" y2="0.16" width="0.2032" layer="51"/>
+<wire x1="9.1669" y1="1.098" x2="8.2289" y2="0.16" width="0.2032" layer="51"/>
+<wire x1="-12.6021" y1="0.639" x2="-11.6481" y2="1.593" width="0.2032" layer="51"/>
+<wire x1="-7.5221" y1="0.639" x2="-6.5681" y2="1.593" width="0.2032" layer="51"/>
+<wire x1="-2.4421" y1="0.639" x2="-1.4881" y2="1.593" width="0.2032" layer="51"/>
+<wire x1="2.6379" y1="0.639" x2="3.5919" y2="1.593" width="0.2032" layer="51"/>
+<wire x1="7.7179" y1="0.639" x2="8.6719" y2="1.593" width="0.2032" layer="51"/>
+<wire x1="-7.6411" y1="0.52" x2="-7.5221" y2="0.639" width="0.2032" layer="51"/>
+<wire x1="-2.5611" y1="0.52" x2="-2.4421" y2="0.639" width="0.2032" layer="51"/>
+<wire x1="2.5189" y1="0.52" x2="2.6379" y2="0.639" width="0.2032" layer="51"/>
+<wire x1="7.5989" y1="0.52" x2="7.7179" y2="0.639" width="0.2032" layer="51"/>
+<wire x1="-8.2801" y1="-0.119" x2="-7.6411" y2="0.52" width="0.2032" layer="51"/>
+<wire x1="-12.0911" y1="0.16" x2="-12.7211" y2="-0.47" width="0.2032" layer="51"/>
+<wire x1="-12.7211" y1="0.52" x2="-12.6021" y2="0.639" width="0.2032" layer="51"/>
+<wire x1="-1.9311" y1="0.16" x2="-2.5611" y2="-0.47" width="0.2032" layer="51"/>
+<wire x1="-3.2001" y1="-0.119" x2="-2.5611" y2="0.52" width="0.2032" layer="51"/>
+<wire x1="-7.0111" y1="0.16" x2="-7.6411" y2="-0.47" width="0.2032" layer="51"/>
+<wire x1="1.8799" y1="-0.119" x2="2.5189" y2="0.52" width="0.2032" layer="51"/>
+<wire x1="3.1489" y1="0.16" x2="2.5189" y2="-0.47" width="0.2032" layer="51"/>
+<wire x1="8.2289" y1="0.16" x2="7.5989" y2="-0.47" width="0.2032" layer="51"/>
+<wire x1="6.9599" y1="-0.119" x2="7.5989" y2="0.52" width="0.2032" layer="51"/>
+<wire x1="-7.6411" y1="-0.47" x2="-7.8011" y2="-0.63" width="0.2032" layer="51"/>
+<wire x1="-2.5611" y1="-0.47" x2="-2.7211" y2="-0.63" width="0.2032" layer="51"/>
+<wire x1="2.5189" y1="-0.47" x2="2.3589" y2="-0.63" width="0.2032" layer="51"/>
+<wire x1="7.5989" y1="-0.47" x2="7.4389" y2="-0.63" width="0.2032" layer="51"/>
+<wire x1="0.9509" y1="-1.048" x2="1.8799" y2="-0.119" width="0.2032" layer="51"/>
+<wire x1="2.3589" y1="-0.63" x2="1.4459" y2="-1.543" width="0.2032" layer="51"/>
+<wire x1="7.4389" y1="-0.63" x2="6.5259" y2="-1.543" width="0.2032" layer="51"/>
+<wire x1="6.0309" y1="-1.048" x2="6.9599" y2="-0.119" width="0.2032" layer="51"/>
+<wire x1="-17.1711" y1="0.16" x2="-17.8011" y2="-0.47" width="0.2032" layer="51"/>
+<wire x1="-17.8011" y1="0.52" x2="-17.6821" y2="0.639" width="0.2032" layer="51"/>
+<wire x1="-17.6821" y1="0.639" x2="-16.7281" y2="1.593" width="0.2032" layer="51"/>
+<wire x1="-16.2331" y1="1.098" x2="-17.1711" y2="0.16" width="0.2032" layer="51"/>
+<wire x1="-20.3411" y1="-3.1279" x2="20.2989" y2="-3.1279" width="0.2032" layer="21"/>
+<wire x1="20.2989" y1="-3.1279" x2="20.2989" y2="-2.4479" width="0.2032" layer="21"/>
+<wire x1="20.2989" y1="-1.9555" x2="20.2989" y2="2.0413" width="0.2032" layer="21"/>
+<wire x1="20.2989" y1="2.5243" x2="20.2989" y2="2.0413" width="0.2032" layer="21"/>
+<wire x1="20.2989" y1="2.5243" x2="20.2989" y2="4.05" width="0.2032" layer="21"/>
+<wire x1="-20.3411" y1="-3.75" x2="-20.3411" y2="-3.327" width="0.2032" layer="21"/>
+<wire x1="20.2989" y1="-3.75" x2="20.2989" y2="-3.1279" width="0.2032" layer="21"/>
+<wire x1="-20.3411" y1="4.05" x2="20.2989" y2="4.05" width="0.2032" layer="21"/>
+<wire x1="-20.3411" y1="2.5243" x2="-20.3411" y2="4.05" width="0.2032" layer="21"/>
+<wire x1="20.2989" y1="-3.75" x2="-20.3411" y2="-3.75" width="0.2032" layer="21"/>
+<wire x1="-20.3411" y1="-3.75" x2="-20.3411" y2="-4.05" width="0.2032" layer="21"/>
+<wire x1="20.2989" y1="-3.75" x2="20.2989" y2="-4.05" width="0.2032" layer="21"/>
+<wire x1="-18.4401" y1="-0.119" x2="-17.9611" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="-13.3601" y1="-0.119" x2="-12.8811" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="8.2289" y1="0.16" x2="7.7179" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="3.1489" y1="0.16" x2="2.6379" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="-1.9311" y1="0.16" x2="-2.4421" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="-7.0111" y1="0.16" x2="-7.5221" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="-12.0911" y1="0.16" x2="-12.6021" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="-8.2801" y1="-0.119" x2="-7.8011" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="-3.2001" y1="-0.119" x2="-2.7211" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="1.8799" y1="-0.119" x2="2.3589" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="6.9599" y1="-0.119" x2="7.4389" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="-17.1711" y1="0.16" x2="-17.6821" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="12.5189" y1="-0.63" x2="11.6059" y2="-1.543" width="0.2032" layer="51"/>
+<wire x1="12.6789" y1="-0.47" x2="12.5189" y2="-0.63" width="0.2032" layer="51"/>
+<wire x1="12.0399" y1="-0.119" x2="12.6789" y2="0.52" width="0.2032" layer="51"/>
+<wire x1="11.1109" y1="-1.048" x2="12.0399" y2="-0.119" width="0.2032" layer="51"/>
+<wire x1="16.1909" y1="-1.048" x2="17.1199" y2="-0.119" width="0.2032" layer="51"/>
+<wire x1="17.5989" y1="-0.63" x2="16.6859" y2="-1.543" width="0.2032" layer="51"/>
+<wire x1="17.1199" y1="-0.119" x2="17.7589" y2="0.52" width="0.2032" layer="51"/>
+<wire x1="17.7589" y1="-0.47" x2="17.5989" y2="-0.63" width="0.2032" layer="51"/>
+<wire x1="19.3269" y1="1.098" x2="18.3889" y2="0.16" width="0.2032" layer="51"/>
+<wire x1="17.8779" y1="0.639" x2="18.8319" y2="1.593" width="0.2032" layer="51"/>
+<wire x1="18.3889" y1="0.16" x2="17.7589" y2="-0.47" width="0.2032" layer="51"/>
+<wire x1="17.7589" y1="0.52" x2="17.8779" y2="0.639" width="0.2032" layer="51"/>
+<wire x1="13.3089" y1="0.16" x2="12.6789" y2="-0.47" width="0.2032" layer="51"/>
+<wire x1="12.6789" y1="0.52" x2="12.7979" y2="0.639" width="0.2032" layer="51"/>
+<wire x1="12.7979" y1="0.639" x2="13.7519" y2="1.593" width="0.2032" layer="51"/>
+<wire x1="14.2469" y1="1.098" x2="13.3089" y2="0.16" width="0.2032" layer="51"/>
+<wire x1="12.0399" y1="-0.119" x2="12.5189" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="17.1199" y1="-0.119" x2="17.5989" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="18.3889" y1="0.16" x2="17.8779" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
+<wire x1="13.3089" y1="0.16" x2="12.7979" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
+<circle x="-17.8011" y="0.025" radius="1.915" width="0.2032" layer="21"/>
+<circle x="-12.7211" y="0.025" radius="1.915" width="0.2032" layer="21"/>
+<circle x="-7.6411" y="0.025" radius="1.915" width="0.2032" layer="21"/>
+<circle x="-2.5611" y="0.025" radius="1.915" width="0.2032" layer="21"/>
+<circle x="2.5189" y="0.025" radius="1.915" width="0.2032" layer="21"/>
+<circle x="7.5989" y="0.025" radius="1.915" width="0.2032" layer="21"/>
+<circle x="12.6789" y="0.025" radius="1.915" width="0.2032" layer="21"/>
+<circle x="17.7589" y="0.025" radius="1.915" width="0.2032" layer="21"/>
+<pad name="1" x="-17.8011" y="0.025" drill="1.3" diameter="2"/>
+<pad name="2" x="-12.7211" y="0.025" drill="1.3" diameter="2"/>
+<pad name="3" x="-7.6411" y="0.025" drill="1.3" diameter="2"/>
+<pad name="4" x="-2.5611" y="0.025" drill="1.3" diameter="2"/>
+<pad name="5" x="2.5189" y="0.025" drill="1.3" diameter="2"/>
+<pad name="6" x="7.5989" y="0.025" drill="1.3" diameter="2"/>
+<pad name="7" x="12.6789" y="0.025" drill="1.3" diameter="2"/>
+<pad name="8" x="17.7589" y="0.025" drill="1.3" diameter="2"/>
+<text x="-19.9911" y="4.445" size="1.27" layer="25">&gt;NAME</text>
+<text x="-11.43" y="4.445" size="1.27" layer="27">&gt;VALUE</text>
+</package>
 <package name="MKDSN1,5/3-5,08">
 <description>&lt;b&gt;MKDSN 1,5/ 3-5,08&lt;/b&gt; Printklemme&lt;p&gt;
 Nennstrom: 13,5 A&lt;br&gt;
@@ -2227,109 +2517,6 @@ Source: http://eshop.phoenixcontact.com .. 1729131.pdf</description>
 <text x="-9.8311" y="4.445" size="1.27" layer="25">&gt;NAME</text>
 <text x="-3.81" y="4.445" size="1.27" layer="27">&gt;VALUE</text>
 </package>
-<package name="MKDSN1,5/5-5,08">
-<description>&lt;b&gt;MKDSN 1,5/ 5-5,08&lt;/b&gt; Printklemme&lt;p&gt;
-Nennstrom: 13,5 A&lt;br&gt;
-Nennspannung: 250 V&lt;br&gt;
-Rastermaß: 5,08 mm&lt;br&gt;
-Polzahl: 5&lt;br&gt;
-Anschlussart: Schraubanschluss&lt;br&gt;
-Montage: Löten&lt;br&gt;
-Anschlussrichtung Leiter/Platine: 0 °&lt;br&gt;
-Artikelnummer: 1729157&lt;br&gt;
-Source: http://eshop.phoenixcontact.com .. 1729157.pdf</description>
-<wire x1="-12.7211" y1="-4.05" x2="12.6789" y2="-4.05" width="0.2032" layer="21"/>
-<wire x1="-12.7211" y1="2.5243" x2="12.6789" y2="2.5243" width="0.2032" layer="21"/>
-<wire x1="-10.3411" y1="-0.63" x2="-11.2541" y2="-1.543" width="0.2032" layer="51"/>
-<wire x1="-12.7211" y1="-1.9555" x2="-12.7211" y2="-2.4479" width="0.2032" layer="21"/>
-<wire x1="-12.7211" y1="-3.327" x2="-12.8498" y2="-3.327" width="0.2032" layer="21"/>
-<wire x1="-12.8498" y1="-2.913" x2="-12.7211" y2="-2.913" width="0.2032" layer="21"/>
-<wire x1="-12.7211" y1="-3.1279" x2="-12.7211" y2="-2.913" width="0.2032" layer="21"/>
-<wire x1="-12.7211" y1="-3.327" x2="-12.7211" y2="-3.1279" width="0.2032" layer="21"/>
-<wire x1="-13.2911" y1="-2.763" x2="-13.0281" y2="-2.763" width="0.2032" layer="21"/>
-<wire x1="-13.2911" y1="-3.477" x2="-13.0281" y2="-3.477" width="0.2032" layer="21"/>
-<wire x1="-12.7211" y1="-2.913" x2="-12.7211" y2="-2.4479" width="0.2032" layer="21"/>
-<wire x1="-12.8498" y1="-3.327" x2="-13.0281" y2="-3.477" width="0.2032" layer="21"/>
-<wire x1="-13.2911" y1="-2.763" x2="-13.2911" y2="-3.477" width="0.2032" layer="21"/>
-<wire x1="-12.7211" y1="2.5243" x2="-12.7211" y2="2.0413" width="0.2032" layer="21"/>
-<wire x1="-12.7211" y1="-1.9555" x2="-12.7211" y2="2.0413" width="0.2032" layer="21"/>
-<wire x1="-13.0281" y1="-2.763" x2="-12.8498" y2="-2.913" width="0.2032" layer="21"/>
-<wire x1="12.6789" y1="-2.4479" x2="-12.7211" y2="-2.4479" width="0.2032" layer="21"/>
-<wire x1="-10.1811" y1="-0.47" x2="-10.3411" y2="-0.63" width="0.2032" layer="51"/>
-<wire x1="-10.8201" y1="-0.119" x2="-10.1811" y2="0.52" width="0.2032" layer="51"/>
-<wire x1="-11.7491" y1="-1.048" x2="-10.8201" y2="-0.119" width="0.2032" layer="51"/>
-<wire x1="-6.6691" y1="-1.048" x2="-5.7401" y2="-0.119" width="0.2032" layer="51"/>
-<wire x1="12.6789" y1="-1.9555" x2="12.6789" y2="-2.4479" width="0.2032" layer="21"/>
-<wire x1="-5.2611" y1="-0.63" x2="-6.1741" y2="-1.543" width="0.2032" layer="51"/>
-<wire x1="-1.5891" y1="-1.048" x2="-0.6601" y2="-0.119" width="0.2032" layer="51"/>
-<wire x1="-0.1811" y1="-0.63" x2="-1.0941" y2="-1.543" width="0.2032" layer="51"/>
-<wire x1="3.4909" y1="-1.048" x2="4.4199" y2="-0.119" width="0.2032" layer="51"/>
-<wire x1="4.8989" y1="-0.63" x2="3.9859" y2="-1.543" width="0.2032" layer="51"/>
-<wire x1="-5.7401" y1="-0.119" x2="-5.1011" y2="0.52" width="0.2032" layer="51"/>
-<wire x1="-5.1011" y1="-0.47" x2="-5.2611" y2="-0.63" width="0.2032" layer="51"/>
-<wire x1="-3.5331" y1="1.098" x2="-4.4711" y2="0.16" width="0.2032" layer="51"/>
-<wire x1="1.5469" y1="1.098" x2="0.6089" y2="0.16" width="0.2032" layer="51"/>
-<wire x1="6.6269" y1="1.098" x2="5.6889" y2="0.16" width="0.2032" layer="51"/>
-<wire x1="11.7069" y1="1.098" x2="10.7689" y2="0.16" width="0.2032" layer="51"/>
-<wire x1="-4.9821" y1="0.639" x2="-4.0281" y2="1.593" width="0.2032" layer="51"/>
-<wire x1="0.0979" y1="0.639" x2="1.0519" y2="1.593" width="0.2032" layer="51"/>
-<wire x1="5.1779" y1="0.639" x2="6.1319" y2="1.593" width="0.2032" layer="51"/>
-<wire x1="10.2579" y1="0.639" x2="11.2119" y2="1.593" width="0.2032" layer="51"/>
-<wire x1="-0.0211" y1="0.52" x2="0.0979" y2="0.639" width="0.2032" layer="51"/>
-<wire x1="5.0589" y1="0.52" x2="5.1779" y2="0.639" width="0.2032" layer="51"/>
-<wire x1="10.1389" y1="0.52" x2="10.2579" y2="0.639" width="0.2032" layer="51"/>
-<wire x1="-0.6601" y1="-0.119" x2="-0.0211" y2="0.52" width="0.2032" layer="51"/>
-<wire x1="-4.4711" y1="0.16" x2="-5.1011" y2="-0.47" width="0.2032" layer="51"/>
-<wire x1="-5.1011" y1="0.52" x2="-4.9821" y2="0.639" width="0.2032" layer="51"/>
-<wire x1="5.6889" y1="0.16" x2="5.0589" y2="-0.47" width="0.2032" layer="51"/>
-<wire x1="4.4199" y1="-0.119" x2="5.0589" y2="0.52" width="0.2032" layer="51"/>
-<wire x1="0.6089" y1="0.16" x2="-0.0211" y2="-0.47" width="0.2032" layer="51"/>
-<wire x1="9.4999" y1="-0.119" x2="10.1389" y2="0.52" width="0.2032" layer="51"/>
-<wire x1="10.7689" y1="0.16" x2="10.1389" y2="-0.47" width="0.2032" layer="51"/>
-<wire x1="-0.0211" y1="-0.47" x2="-0.1811" y2="-0.63" width="0.2032" layer="51"/>
-<wire x1="5.0589" y1="-0.47" x2="4.8989" y2="-0.63" width="0.2032" layer="51"/>
-<wire x1="10.1389" y1="-0.47" x2="9.9789" y2="-0.63" width="0.2032" layer="51"/>
-<wire x1="8.5709" y1="-1.048" x2="9.4999" y2="-0.119" width="0.2032" layer="51"/>
-<wire x1="9.9789" y1="-0.63" x2="9.0659" y2="-1.543" width="0.2032" layer="51"/>
-<wire x1="-9.5511" y1="0.16" x2="-10.1811" y2="-0.47" width="0.2032" layer="51"/>
-<wire x1="-10.1811" y1="0.52" x2="-10.0621" y2="0.639" width="0.2032" layer="51"/>
-<wire x1="-10.0621" y1="0.639" x2="-9.1081" y2="1.593" width="0.2032" layer="51"/>
-<wire x1="-8.6131" y1="1.098" x2="-9.5511" y2="0.16" width="0.2032" layer="51"/>
-<wire x1="-12.7211" y1="-3.1279" x2="12.6789" y2="-3.1279" width="0.2032" layer="21"/>
-<wire x1="12.6789" y1="-3.1279" x2="12.6789" y2="-2.4479" width="0.2032" layer="21"/>
-<wire x1="12.6789" y1="-1.9555" x2="12.6789" y2="2.0413" width="0.2032" layer="21"/>
-<wire x1="12.6789" y1="2.5243" x2="12.6789" y2="2.0413" width="0.2032" layer="21"/>
-<wire x1="12.6789" y1="2.5243" x2="12.6789" y2="4.05" width="0.2032" layer="21"/>
-<wire x1="-12.7211" y1="-3.75" x2="-12.7211" y2="-3.327" width="0.2032" layer="21"/>
-<wire x1="12.6789" y1="-3.75" x2="12.6789" y2="-3.1279" width="0.2032" layer="21"/>
-<wire x1="-12.7211" y1="4.05" x2="12.6789" y2="4.05" width="0.2032" layer="21"/>
-<wire x1="-12.7211" y1="2.5243" x2="-12.7211" y2="4.05" width="0.2032" layer="21"/>
-<wire x1="12.6789" y1="-3.75" x2="-12.7211" y2="-3.75" width="0.2032" layer="21"/>
-<wire x1="-12.7211" y1="-3.75" x2="-12.7211" y2="-4.05" width="0.2032" layer="21"/>
-<wire x1="12.6789" y1="-3.75" x2="12.6789" y2="-4.05" width="0.2032" layer="21"/>
-<wire x1="-10.8201" y1="-0.119" x2="-10.3411" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
-<wire x1="-5.7401" y1="-0.119" x2="-5.2611" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
-<wire x1="10.7689" y1="0.16" x2="10.2579" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
-<wire x1="5.6889" y1="0.16" x2="5.1779" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
-<wire x1="0.6089" y1="0.16" x2="0.0979" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
-<wire x1="-4.4711" y1="0.16" x2="-4.9821" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
-<wire x1="-0.6601" y1="-0.119" x2="-0.1811" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
-<wire x1="4.4199" y1="-0.119" x2="4.8989" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
-<wire x1="9.4999" y1="-0.119" x2="9.9789" y2="-0.63" width="0.2032" layer="51" curve="65.201851"/>
-<wire x1="-9.5511" y1="0.16" x2="-10.0621" y2="0.639" width="0.2032" layer="51" curve="65.201851"/>
-<circle x="-10.1811" y="0.025" radius="1.915" width="0.2032" layer="21"/>
-<circle x="-5.1011" y="0.025" radius="1.915" width="0.2032" layer="21"/>
-<circle x="-0.0211" y="0.025" radius="1.915" width="0.2032" layer="21"/>
-<circle x="5.0589" y="0.025" radius="1.915" width="0.2032" layer="21"/>
-<circle x="10.1389" y="0.025" radius="1.915" width="0.2032" layer="21"/>
-<pad name="1" x="-10.1811" y="0.025" drill="1.3" diameter="2"/>
-<pad name="2" x="-5.1011" y="0.025" drill="1.3" diameter="2"/>
-<pad name="3" x="-0.0211" y="0.025" drill="1.3" diameter="2"/>
-<pad name="4" x="5.0589" y="0.025" drill="1.3" diameter="2"/>
-<pad name="5" x="10.1389" y="0.025" drill="1.3" diameter="2"/>
-<text x="-12.3711" y="4.445" size="1.27" layer="25">&gt;NAME</text>
-<text x="-3.81" y="4.445" size="1.27" layer="27">&gt;VALUE</text>
-</package>
 </packages>
 <symbols>
 <symbol name="KLV">
@@ -2349,6 +2536,96 @@ Source: http://eshop.phoenixcontact.com .. 1729157.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
+<deviceset name="MKDSN1,5/9-5,08" prefix="X">
+<description>&lt;b&gt;MKDSN 1,5/ 9-5,08&lt;/b&gt; Printklemme&lt;p&gt;
+Nennstrom: 13,5 A&lt;br&gt;
+Nennspannung: 250 V&lt;br&gt;
+Rastermaß: 5,08 mm&lt;br&gt;
+Polzahl: 9&lt;br&gt;
+Anschlussart: Schraubanschluss&lt;br&gt;
+Montage: Löten&lt;br&gt;
+Anschlussrichtung Leiter/Platine: 0 °&lt;br&gt;
+Artikelnummer: 1729199&lt;br&gt;
+Source: http://eshop.phoenixcontact.com .. 1729199.pdf</description>
+<gates>
+<gate name="-1" symbol="KLV" x="0" y="0" addlevel="always" swaplevel="1"/>
+<gate name="-2" symbol="KL" x="0" y="-5.08" addlevel="always" swaplevel="1"/>
+<gate name="-3" symbol="KL" x="0" y="-10.16" addlevel="always" swaplevel="1"/>
+<gate name="-4" symbol="KL" x="0" y="-15.24" addlevel="always" swaplevel="1"/>
+<gate name="-5" symbol="KL" x="0" y="-20.32" addlevel="always" swaplevel="1"/>
+<gate name="-6" symbol="KL" x="0" y="-25.4" addlevel="always" swaplevel="1"/>
+<gate name="-7" symbol="KL" x="0" y="-30.48" addlevel="always" swaplevel="1"/>
+<gate name="-8" symbol="KL" x="0" y="-35.56" addlevel="always" swaplevel="1"/>
+<gate name="-9" symbol="KL" x="0" y="-40.64" addlevel="always" swaplevel="1"/>
+</gates>
+<devices>
+<device name="" package="MKDSN1,5/9-5,08">
+<connects>
+<connect gate="-1" pin="KL" pad="1"/>
+<connect gate="-2" pin="KL" pad="2"/>
+<connect gate="-3" pin="KL" pad="3"/>
+<connect gate="-4" pin="KL" pad="4"/>
+<connect gate="-5" pin="KL" pad="5"/>
+<connect gate="-6" pin="KL" pad="6"/>
+<connect gate="-7" pin="KL" pad="7"/>
+<connect gate="-8" pin="KL" pad="8"/>
+<connect gate="-9" pin="KL" pad="9"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="SMKDSN1,5/9-5,08" constant="no"/>
+<attribute name="OC_FARNELL" value="1792912" constant="no"/>
+<attribute name="OC_NEWARK" value="70R0305" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="MKDSN1,5/8-5,08" prefix="X">
+<description>&lt;b&gt;MKDSN 1,5/ 8-5,08&lt;/b&gt; Printklemme&lt;p&gt;
+Nennstrom: 13,5 A&lt;br&gt;
+Nennspannung: 250 V&lt;br&gt;
+Rastermaß: 5,08 mm&lt;br&gt;
+Polzahl: 8&lt;br&gt;
+Anschlussart: Schraubanschluss&lt;br&gt;
+Montage: Löten&lt;br&gt;
+Anschlussrichtung Leiter/Platine: 0 °&lt;br&gt;
+Artikelnummer: 1729186&lt;br&gt;
+Source: http://eshop.phoenixcontact.com .. 1729186.pdf</description>
+<gates>
+<gate name="-1" symbol="KLV" x="0" y="0" addlevel="always" swaplevel="1"/>
+<gate name="-2" symbol="KL" x="0" y="-5.08" addlevel="always" swaplevel="1"/>
+<gate name="-3" symbol="KL" x="0" y="-10.16" addlevel="always" swaplevel="1"/>
+<gate name="-4" symbol="KL" x="0" y="-15.24" addlevel="always" swaplevel="1"/>
+<gate name="-5" symbol="KL" x="0" y="-20.32" addlevel="always" swaplevel="1"/>
+<gate name="-6" symbol="KL" x="0" y="-25.4" addlevel="always" swaplevel="1"/>
+<gate name="-7" symbol="KL" x="0" y="-30.48" addlevel="always" swaplevel="1"/>
+<gate name="-8" symbol="KL" x="0" y="-35.56" addlevel="always" swaplevel="1"/>
+</gates>
+<devices>
+<device name="" package="MKDSN1,5/8-5,08">
+<connects>
+<connect gate="-1" pin="KL" pad="1"/>
+<connect gate="-2" pin="KL" pad="2"/>
+<connect gate="-3" pin="KL" pad="3"/>
+<connect gate="-4" pin="KL" pad="4"/>
+<connect gate="-5" pin="KL" pad="5"/>
+<connect gate="-6" pin="KL" pad="6"/>
+<connect gate="-7" pin="KL" pad="7"/>
+<connect gate="-8" pin="KL" pad="8"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="SMKDSN1,5/8-5,08" constant="no"/>
+<attribute name="OC_FARNELL" value="1792911" constant="no"/>
+<attribute name="OC_NEWARK" value="70R0304" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
 <deviceset name="MKDSN1,5/3-5,08" prefix="X">
 <description>&lt;b&gt;MKDSN 1,5/ 3-5,08&lt;/b&gt; Printklemme&lt;p&gt;
 Nennstrom: 13,5 A&lt;br&gt;
@@ -2378,44 +2655,6 @@ Source: http://eshop.phoenixcontact.com .. 1729131.pdf</description>
 <attribute name="MPN" value="SMKDSN1,5/3-5,08" constant="no"/>
 <attribute name="OC_FARNELL" value="1792904" constant="no"/>
 <attribute name="OC_NEWARK" value="70R0299" constant="no"/>
-</technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
-<deviceset name="MKDSN1,5/5-5,08" prefix="X">
-<description>&lt;b&gt;MKDSN 1,5/ 5-5,08&lt;/b&gt; Printklemme&lt;p&gt;
-Nennstrom: 13,5 A&lt;br&gt;
-Nennspannung: 250 V&lt;br&gt;
-Rastermaß: 5,08 mm&lt;br&gt;
-Polzahl: 5&lt;br&gt;
-Anschlussart: Schraubanschluss&lt;br&gt;
-Montage: Löten&lt;br&gt;
-Anschlussrichtung Leiter/Platine: 0 °&lt;br&gt;
-Artikelnummer: 1729157&lt;br&gt;
-Source: http://eshop.phoenixcontact.com .. 1729157.pdf</description>
-<gates>
-<gate name="-1" symbol="KLV" x="0" y="0" addlevel="always" swaplevel="1"/>
-<gate name="-2" symbol="KL" x="0" y="-5.08" addlevel="always" swaplevel="1"/>
-<gate name="-3" symbol="KL" x="0" y="-10.16" addlevel="always" swaplevel="1"/>
-<gate name="-4" symbol="KL" x="0" y="-15.24" addlevel="always" swaplevel="1"/>
-<gate name="-5" symbol="KL" x="0" y="-20.32" addlevel="always" swaplevel="1"/>
-</gates>
-<devices>
-<device name="" package="MKDSN1,5/5-5,08">
-<connects>
-<connect gate="-1" pin="KL" pad="1"/>
-<connect gate="-2" pin="KL" pad="2"/>
-<connect gate="-3" pin="KL" pad="3"/>
-<connect gate="-4" pin="KL" pad="4"/>
-<connect gate="-5" pin="KL" pad="5"/>
-</connects>
-<technologies>
-<technology name="">
-<attribute name="MF" value="" constant="no"/>
-<attribute name="MPN" value="SMKDSN1,5/5-5,08" constant="no"/>
-<attribute name="OC_FARNELL" value="1792906" constant="no"/>
-<attribute name="OC_NEWARK" value="70R0301" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -2575,14 +2814,14 @@ Comments, suggestions and bug reports please send to: &lt;b&gt;&lt;a href="mailt
 <wire x1="1.4" y1="-1.4" x2="-1.4" y2="-1.4" width="0.2032" layer="21"/>
 <wire x1="-1.4" y1="-1.4" x2="-1.4" y2="1.4" width="0.2032" layer="21"/>
 <circle x="-1" y="-1" radius="0.2" width="0" layer="21"/>
-<smd name="1" x="-0.975" y="-2.05" dx="0.45" dy="1" layer="1"/>
-<smd name="2" x="-0.325" y="-2.05" dx="0.45" dy="1" layer="1"/>
-<smd name="3" x="0.325" y="-2.05" dx="0.45" dy="1" layer="1"/>
-<smd name="4" x="0.975" y="-2.05" dx="0.45" dy="1" layer="1"/>
-<smd name="5" x="0.975" y="2.05" dx="0.45" dy="1" layer="1"/>
-<smd name="6" x="0.325" y="2.05" dx="0.45" dy="1" layer="1"/>
-<smd name="7" x="-0.325" y="2.05" dx="0.45" dy="1" layer="1"/>
-<smd name="8" x="-0.975" y="2.05" dx="0.45" dy="1" layer="1"/>
+<smd name="1" x="-0.975" y="-2.05" dx="0.4" dy="1" layer="1"/>
+<smd name="2" x="-0.325" y="-2.05" dx="0.4" dy="1" layer="1"/>
+<smd name="3" x="0.325" y="-2.05" dx="0.4" dy="1" layer="1"/>
+<smd name="4" x="0.975" y="-2.05" dx="0.4" dy="1" layer="1"/>
+<smd name="5" x="0.975" y="2.05" dx="0.4" dy="1" layer="1"/>
+<smd name="6" x="0.325" y="2.05" dx="0.4" dy="1" layer="1"/>
+<smd name="7" x="-0.325" y="2.05" dx="0.4" dy="1" layer="1"/>
+<smd name="8" x="-0.975" y="2.05" dx="0.4" dy="1" layer="1"/>
 <text x="-1.15" y="0.15" size="1.016" layer="25">&gt;NAME</text>
 <text x="-0.65" y="-1.05" size="1.016" layer="27">&gt;VALUE</text>
 <rectangle x1="-1.1254" y1="-2.45" x2="-0.8254" y2="-1.5" layer="51"/>
@@ -2661,13 +2900,13 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <variantdefs>
 </variantdefs>
 <classes>
-<class number="0" name="default" width="0.2032" drill="0.3048">
+<class number="0" name="default" width="0.2032" drill="0.4064">
 <clearance class="0" value="0.2032"/>
 </class>
-<class number="1" name="Power" width="0.4064" drill="0.3048">
+<class number="1" name="Power" width="0.4064" drill="0.4064">
 <clearance class="1" value="0.2032"/>
 </class>
-<class number="2" name="led power" width="1.016" drill="0.3048">
+<class number="2" name="led power" width="1.524" drill="0.4064">
 <clearance class="2" value="0.2032"/>
 </class>
 </classes>
@@ -2675,7 +2914,7 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <part name="IC2" library="microchip" deviceset="25*" device="SN" technology="AA080" value="AT25DF512C-SSHN-B"/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
-<part name="JP2" library="avr-7" deviceset="AVR-ISP-6" device="VERT" value="N/M"/>
+<part name="ISP" library="avr-7" deviceset="AVR-ISP-6" device="VERT" value="N/M"/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="IC3" library="Sensor" deviceset="ATSHA204A" device=""/>
 <part name="GND2" library="supply1" deviceset="GND" device=""/>
@@ -2697,7 +2936,6 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <part name="GND6" library="supply1" deviceset="GND" device=""/>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="J1" library="con-molex" deviceset="22-?-02" device="27-2021"/>
-<part name="X1" library="con-phoenix-508" deviceset="MKDSN1,5/3-5,08" device=""/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
 <part name="Q3" library="transistor-power" deviceset="IRF530" device=""/>
@@ -2708,7 +2946,6 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <part name="R11" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="10k"/>
 <part name="R12" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="27"/>
 <part name="J2" library="con-molex" deviceset="22-?-02" device="27-2021"/>
-<part name="X2" library="con-phoenix-508" deviceset="MKDSN1,5/3-5,08" device=""/>
 <part name="Q5" library="transistor-power" deviceset="IRF530" device=""/>
 <part name="R13" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="10k"/>
 <part name="R14" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="27"/>
@@ -2717,7 +2954,6 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <part name="R16" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="10k"/>
 <part name="R17" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="27"/>
 <part name="J3" library="con-molex" deviceset="22-?-02" device="27-2021"/>
-<part name="X3" library="con-phoenix-508" deviceset="MKDSN1,5/3-5,08" device=""/>
 <part name="Q7" library="transistor-power" deviceset="IRF530" device=""/>
 <part name="R18" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="10k"/>
 <part name="R19" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="27"/>
@@ -2726,7 +2962,6 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <part name="R21" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="10k"/>
 <part name="R22" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="27"/>
 <part name="J4" library="con-molex" deviceset="22-?-02" device="27-2021"/>
-<part name="X4" library="con-phoenix-508" deviceset="MKDSN1,5/3-5,08" device=""/>
 <part name="Q9" library="transistor-power" deviceset="IRF530" device=""/>
 <part name="R23" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="10k"/>
 <part name="R24" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="27"/>
@@ -2735,16 +2970,18 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <part name="R26" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="10k"/>
 <part name="R27" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="27"/>
 <part name="J5" library="con-molex" deviceset="22-?-02" device="27-2021"/>
-<part name="X5" library="con-phoenix-508" deviceset="MKDSN1,5/3-5,08" device=""/>
-<part name="X6" library="con-phoenix-508" deviceset="MKDSN1,5/5-5,08" device=""/>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
-<part name="M1" library="diy-modules" deviceset="WIRELESS-NRF24L01" device=""/>
-<part name="U$1" library="Ava" deviceset="DS1820" device=""/>
+<part name="NRF24L01" library="diy-modules" deviceset="WIRELESS-NRF24L01" device=""/>
 <part name="P+1" library="supply1" deviceset="VCC" device=""/>
 <part name="P+2" library="supply1" deviceset="VCC" device=""/>
 <part name="P+3" library="supply1" deviceset="VCC" device=""/>
 <part name="P+4" library="supply1" deviceset="VCC" device=""/>
 <part name="P+5" library="supply1" deviceset="VCC" device=""/>
+<part name="X1" library="con-phoenix-508" deviceset="MKDSN1,5/9-5,08" device=""/>
+<part name="X2" library="con-phoenix-508" deviceset="MKDSN1,5/8-5,08" device=""/>
+<part name="X3" library="con-phoenix-508" deviceset="MKDSN1,5/3-5,08" device=""/>
+<part name="R28" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="4.7k"/>
+<part name="IC4" library="Ava" deviceset="DS1820" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -2754,7 +2991,7 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <instance part="IC2" gate="G$1" x="170.18" y="30.48"/>
 <instance part="GND3" gate="1" x="177.8" y="15.24"/>
 <instance part="GND1" gate="1" x="162.56" y="111.76" rot="R180"/>
-<instance part="JP2" gate="G$1" x="167.64" y="60.96"/>
+<instance part="ISP" gate="G$1" x="167.64" y="60.96"/>
 <instance part="GND8" gate="1" x="177.8" y="53.34"/>
 <instance part="IC3" gate="U1" x="172.72" y="125.73"/>
 <instance part="GND2" gate="1" x="161.29" y="120.65"/>
@@ -2792,15 +3029,9 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <instance part="GND4" gate="1" x="60.96" y="93.98"/>
 <instance part="J1" gate="-1" x="-35.56" y="147.32" smashed="yes" rot="R90">
 <attribute name="NAME" x="-34.798" y="149.86" size="1.524" layer="95" rot="R90"/>
-<attribute name="VALUE" x="-38.862" y="156.337" size="1.778" layer="96"/>
+<attribute name="VALUE" x="-33.782" y="151.257" size="1.778" layer="96"/>
 </instance>
 <instance part="J1" gate="-2" x="-38.1" y="147.32" rot="R90"/>
-<instance part="X1" gate="-1" x="-45.72" y="147.32" smashed="yes" rot="R90">
-<attribute name="NAME" x="-44.831" y="150.368" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="-60.96" y="156.337" size="1.778" layer="96"/>
-</instance>
-<instance part="X1" gate="-2" x="-43.18" y="147.32" rot="R90"/>
-<instance part="X1" gate="-3" x="-40.64" y="147.32" rot="R90"/>
 <instance part="GND9" gate="1" x="50.8" y="58.42"/>
 <instance part="GND10" gate="1" x="96.52" y="66.04"/>
 <instance part="Q3" gate="G$1" x="5.08" y="119.38"/>
@@ -2827,12 +3058,6 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <attribute name="VALUE" x="4.318" y="156.337" size="1.778" layer="96"/>
 </instance>
 <instance part="J2" gate="-2" x="5.08" y="147.32" rot="R90"/>
-<instance part="X2" gate="-1" x="-2.54" y="147.32" smashed="yes" rot="R90">
-<attribute name="NAME" x="-1.651" y="150.368" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="-17.78" y="156.337" size="1.778" layer="96"/>
-</instance>
-<instance part="X2" gate="-2" x="0" y="147.32" rot="R90"/>
-<instance part="X2" gate="-3" x="2.54" y="147.32" rot="R90"/>
 <instance part="Q5" gate="G$1" x="48.26" y="119.38"/>
 <instance part="R13" gate="G$1" x="22.86" y="104.14" rot="R90"/>
 <instance part="R14" gate="G$1" x="25.4" y="116.84" smashed="yes" rot="R270">
@@ -2857,12 +3082,6 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <attribute name="VALUE" x="47.498" y="156.337" size="1.778" layer="96"/>
 </instance>
 <instance part="J3" gate="-2" x="48.26" y="147.32" rot="R90"/>
-<instance part="X3" gate="-1" x="40.64" y="147.32" smashed="yes" rot="R90">
-<attribute name="NAME" x="41.529" y="150.368" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="25.4" y="156.337" size="1.778" layer="96"/>
-</instance>
-<instance part="X3" gate="-2" x="43.18" y="147.32" rot="R90"/>
-<instance part="X3" gate="-3" x="45.72" y="147.32" rot="R90"/>
 <instance part="Q7" gate="G$1" x="91.44" y="119.38"/>
 <instance part="R18" gate="G$1" x="66.04" y="104.14" rot="R90"/>
 <instance part="R19" gate="G$1" x="68.58" y="116.84" smashed="yes" rot="R270">
@@ -2884,15 +3103,9 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 </instance>
 <instance part="J4" gate="-1" x="93.98" y="147.32" smashed="yes" rot="R90">
 <attribute name="NAME" x="94.742" y="149.86" size="1.524" layer="95" rot="R90"/>
-<attribute name="VALUE" x="90.678" y="156.337" size="1.778" layer="96"/>
+<attribute name="VALUE" x="95.758" y="151.257" size="1.778" layer="96"/>
 </instance>
 <instance part="J4" gate="-2" x="91.44" y="147.32" rot="R90"/>
-<instance part="X4" gate="-1" x="83.82" y="147.32" smashed="yes" rot="R90">
-<attribute name="NAME" x="84.709" y="150.368" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="68.58" y="156.337" size="1.778" layer="96"/>
-</instance>
-<instance part="X4" gate="-2" x="86.36" y="147.32" rot="R90"/>
-<instance part="X4" gate="-3" x="88.9" y="147.32" rot="R90"/>
 <instance part="Q9" gate="G$1" x="134.62" y="119.38"/>
 <instance part="R23" gate="G$1" x="109.22" y="104.14" rot="R90"/>
 <instance part="R24" gate="G$1" x="111.76" y="116.84" smashed="yes" rot="R270">
@@ -2914,31 +3127,50 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 </instance>
 <instance part="J5" gate="-1" x="137.16" y="147.32" smashed="yes" rot="R90">
 <attribute name="NAME" x="137.922" y="149.86" size="1.524" layer="95" rot="R90"/>
-<attribute name="VALUE" x="133.858" y="156.337" size="1.778" layer="96"/>
+<attribute name="VALUE" x="138.938" y="151.257" size="1.778" layer="96"/>
 </instance>
 <instance part="J5" gate="-2" x="134.62" y="147.32" rot="R90"/>
-<instance part="X5" gate="-1" x="127" y="147.32" smashed="yes" rot="R90">
-<attribute name="NAME" x="127.889" y="150.368" size="1.778" layer="95" rot="R90"/>
-<attribute name="VALUE" x="111.76" y="156.337" size="1.778" layer="96"/>
-</instance>
-<instance part="X5" gate="-2" x="129.54" y="147.32" rot="R90"/>
-<instance part="X5" gate="-3" x="132.08" y="147.32" rot="R90"/>
-<instance part="X6" gate="-1" x="27.94" y="68.58" smashed="yes" rot="R180">
-<attribute name="NAME" x="24.892" y="69.469" size="1.778" layer="95" rot="R180"/>
-<attribute name="VALUE" x="16.637" y="88.9" size="1.778" layer="96" rot="R270"/>
-</instance>
-<instance part="X6" gate="-2" x="27.94" y="73.66" rot="R180"/>
-<instance part="X6" gate="-3" x="27.94" y="78.74" rot="R180"/>
-<instance part="X6" gate="-4" x="27.94" y="83.82" rot="R180"/>
-<instance part="X6" gate="-5" x="27.94" y="88.9" rot="R180"/>
 <instance part="GND11" gate="1" x="165.1" y="142.24"/>
-<instance part="M1" gate="G$1" x="187.96" y="86.36"/>
-<instance part="U$1" gate="G$1" x="167.64" y="152.4"/>
+<instance part="NRF24L01" gate="G$1" x="187.96" y="86.36"/>
 <instance part="P+1" gate="VCC" x="182.88" y="134.62"/>
 <instance part="P+2" gate="VCC" x="175.26" y="157.48" rot="MR0"/>
 <instance part="P+3" gate="VCC" x="101.6" y="68.58" rot="MR0"/>
 <instance part="P+4" gate="VCC" x="154.94" y="50.8"/>
 <instance part="P+5" gate="VCC" x="142.24" y="101.6"/>
+<instance part="X1" gate="-1" x="-45.72" y="147.32" smashed="yes" rot="R90">
+<attribute name="NAME" x="-44.831" y="150.368" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="-53.34" y="156.337" size="1.778" layer="96"/>
+</instance>
+<instance part="X1" gate="-2" x="-43.18" y="147.32" rot="R90"/>
+<instance part="X1" gate="-3" x="-40.64" y="147.32" rot="R90"/>
+<instance part="X1" gate="-4" x="-2.54" y="147.32" rot="R90"/>
+<instance part="X1" gate="-5" x="0" y="147.32" rot="R90"/>
+<instance part="X1" gate="-6" x="2.54" y="147.32" rot="R90"/>
+<instance part="X1" gate="-7" x="40.64" y="147.32" rot="R90"/>
+<instance part="X1" gate="-8" x="43.18" y="147.32" rot="R90"/>
+<instance part="X1" gate="-9" x="45.72" y="147.32" rot="R90"/>
+<instance part="X2" gate="-1" x="127" y="147.32" smashed="yes" rot="R90">
+<attribute name="NAME" x="127.889" y="150.368" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="144.78" y="158.623" size="1.778" layer="96" rot="R180"/>
+</instance>
+<instance part="X2" gate="-2" x="129.54" y="147.32" rot="R90"/>
+<instance part="X2" gate="-3" x="132.08" y="147.32" rot="R90"/>
+<instance part="X2" gate="-4" x="27.94" y="68.58" rot="R180"/>
+<instance part="X2" gate="-5" x="27.94" y="73.66" rot="R180"/>
+<instance part="X2" gate="-6" x="27.94" y="78.74" rot="R180"/>
+<instance part="X2" gate="-7" x="27.94" y="83.82" rot="R180"/>
+<instance part="X2" gate="-8" x="27.94" y="88.9" rot="R180"/>
+<instance part="X3" gate="-1" x="83.82" y="147.32" smashed="yes" rot="R90">
+<attribute name="NAME" x="84.709" y="150.368" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="78.74" y="156.337" size="1.778" layer="96"/>
+</instance>
+<instance part="X3" gate="-2" x="86.36" y="147.32" rot="R90"/>
+<instance part="X3" gate="-3" x="88.9" y="147.32" rot="R90"/>
+<instance part="R28" gate="G$1" x="177.8" y="147.32" smashed="yes" rot="R90">
+<attribute name="NAME" x="181.3814" y="143.51" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="181.102" y="148.59" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="IC4" gate="G$1" x="167.64" y="152.4"/>
 </instances>
 <busses>
 </busses>
@@ -2957,11 +3189,11 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <wire x1="160.02" y1="106.68" x2="162.56" y2="106.68" width="0.1524" layer="91"/>
 <junction x="162.56" y="106.68"/>
 <wire x1="162.56" y1="106.68" x2="162.56" y2="96.52" width="0.1524" layer="91"/>
-<pinref part="M1" gate="G$1" pin="GND"/>
+<pinref part="NRF24L01" gate="G$1" pin="GND"/>
 <wire x1="162.56" y1="96.52" x2="165.1" y2="96.52" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<pinref part="JP2" gate="G$1" pin="6"/>
+<pinref part="ISP" gate="G$1" pin="6"/>
 <wire x1="172.72" y1="58.42" x2="177.8" y2="58.42" width="0.1524" layer="91"/>
 <wire x1="177.8" y1="58.42" x2="177.8" y2="55.88" width="0.1524" layer="91"/>
 <pinref part="GND8" gate="1" pin="GND"/>
@@ -3000,7 +3232,7 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <wire x1="30.48" y1="83.82" x2="43.18" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="43.18" y1="81.28" x2="43.18" y2="83.82" width="0.1524" layer="91"/>
 <pinref part="GND6" gate="1" pin="GND"/>
-<pinref part="X6" gate="-4" pin="KL"/>
+<pinref part="X2" gate="-7" pin="KL"/>
 </segment>
 <segment>
 <wire x1="78.74" y1="99.06" x2="66.04" y2="99.06" width="0.1524" layer="91"/>
@@ -3029,7 +3261,6 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <junction x="-50.8" y="99.06"/>
 <wire x1="60.96" y1="99.06" x2="60.96" y2="96.52" width="0.1524" layer="91"/>
 <pinref part="GND4" gate="1" pin="GND"/>
-<pinref part="X1" gate="-2" pin="KL"/>
 <pinref part="R8" gate="G$1" pin="1"/>
 <junction x="-20.32" y="99.06"/>
 <pinref part="Q3" gate="G$1" pin="S"/>
@@ -3037,7 +3268,6 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <wire x1="0" y1="144.78" x2="0" y2="99.06" width="0.1524" layer="91"/>
 <pinref part="Q4" gate="G$1" pin="S"/>
 <wire x1="-7.62" y1="101.6" x2="-7.62" y2="99.06" width="0.1524" layer="91"/>
-<pinref part="X2" gate="-2" pin="KL"/>
 <junction x="-7.62" y="99.06"/>
 <junction x="0" y="99.06"/>
 <junction x="7.62" y="99.06"/>
@@ -3046,7 +3276,6 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <wire x1="86.36" y1="144.78" x2="86.36" y2="99.06" width="0.1524" layer="91"/>
 <pinref part="Q8" gate="G$1" pin="S"/>
 <wire x1="78.74" y1="101.6" x2="78.74" y2="99.06" width="0.1524" layer="91"/>
-<pinref part="X4" gate="-2" pin="KL"/>
 <wire x1="78.74" y1="99.06" x2="86.36" y2="99.06" width="0.1524" layer="91"/>
 <wire x1="86.36" y1="99.06" x2="93.98" y2="99.06" width="0.1524" layer="91"/>
 <junction x="78.74" y="99.06"/>
@@ -3063,7 +3292,6 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <wire x1="129.54" y1="144.78" x2="129.54" y2="99.06" width="0.1524" layer="91"/>
 <pinref part="Q10" gate="G$1" pin="S"/>
 <wire x1="121.92" y1="101.6" x2="121.92" y2="99.06" width="0.1524" layer="91"/>
-<pinref part="X5" gate="-2" pin="KL"/>
 <wire x1="109.22" y1="99.06" x2="121.92" y2="99.06" width="0.1524" layer="91"/>
 <wire x1="121.92" y1="99.06" x2="129.54" y2="99.06" width="0.1524" layer="91"/>
 <wire x1="129.54" y1="99.06" x2="137.16" y2="99.06" width="0.1524" layer="91"/>
@@ -3075,15 +3303,19 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <wire x1="43.18" y1="144.78" x2="43.18" y2="99.06" width="0.1524" layer="91"/>
 <pinref part="Q6" gate="G$1" pin="S"/>
 <wire x1="35.56" y1="101.6" x2="35.56" y2="99.06" width="0.1524" layer="91"/>
-<pinref part="X3" gate="-2" pin="KL"/>
 <junction x="35.56" y="99.06"/>
 <junction x="43.18" y="99.06"/>
 <junction x="50.8" y="99.06"/>
+<pinref part="X1" gate="-2" pin="KL"/>
+<pinref part="X1" gate="-5" pin="KL"/>
+<pinref part="X1" gate="-8" pin="KL"/>
+<pinref part="X2" gate="-2" pin="KL"/>
+<pinref part="X3" gate="-2" pin="KL"/>
 </segment>
 <segment>
 <pinref part="GND11" gate="1" pin="GND"/>
 <wire x1="165.1" y1="144.78" x2="165.1" y2="147.32" width="0.1524" layer="91"/>
-<pinref part="U$1" gate="G$1" pin="GND"/>
+<pinref part="IC4" gate="G$1" pin="GND"/>
 </segment>
 </net>
 <net name="D4" class="0">
@@ -3099,7 +3331,7 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <wire x1="154.94" y1="88.9" x2="152.4" y2="88.9" width="0.1524" layer="91"/>
 <pinref part="R1" gate="G$1" pin="2"/>
 <wire x1="154.94" y1="88.9" x2="165.1" y2="88.9" width="0.1524" layer="91"/>
-<pinref part="M1" gate="G$1" pin="CSN"/>
+<pinref part="NRF24L01" gate="G$1" pin="CSN"/>
 <junction x="154.94" y="88.9"/>
 </segment>
 </net>
@@ -3110,13 +3342,13 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <label x="152.4" y="30.48" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="JP2" gate="G$1" pin="4"/>
+<pinref part="ISP" gate="G$1" pin="4"/>
 <wire x1="172.72" y1="60.96" x2="182.88" y2="60.96" width="0.1524" layer="91"/>
 <label x="182.88" y="60.96" size="1.778" layer="95" xref="yes"/>
 </segment>
 <segment>
 <label x="152.4" y="83.82" size="1.778" layer="95" rot="R180" xref="yes"/>
-<pinref part="M1" gate="G$1" pin="MOSI"/>
+<pinref part="NRF24L01" gate="G$1" pin="MOSI"/>
 <wire x1="152.4" y1="83.82" x2="165.1" y2="83.82" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -3132,14 +3364,14 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <label x="187.96" y="30.48" size="1.778" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="JP2" gate="G$1" pin="1"/>
+<pinref part="ISP" gate="G$1" pin="1"/>
 <wire x1="162.56" y1="63.5" x2="147.32" y2="63.5" width="0.1524" layer="91"/>
 <label x="147.32" y="63.5" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <label x="162.56" y="81.28" size="1.778" layer="95" rot="R180" xref="yes"/>
 <wire x1="162.56" y1="81.28" x2="165.1" y2="81.28" width="0.1524" layer="91"/>
-<pinref part="M1" gate="G$1" pin="MISO"/>
+<pinref part="NRF24L01" gate="G$1" pin="MISO"/>
 </segment>
 <segment>
 <wire x1="91.44" y1="38.1" x2="93.98" y2="38.1" width="0.1524" layer="91"/>
@@ -3154,14 +3386,14 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <label x="142.24" y="27.94" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="JP2" gate="G$1" pin="3"/>
+<pinref part="ISP" gate="G$1" pin="3"/>
 <wire x1="162.56" y1="60.96" x2="154.94" y2="60.96" width="0.1524" layer="91"/>
 <label x="154.94" y="60.96" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <wire x1="165.1" y1="86.36" x2="162.56" y2="86.36" width="0.1524" layer="91"/>
 <label x="162.56" y="86.36" size="1.778" layer="95" rot="R180" xref="yes"/>
-<pinref part="M1" gate="G$1" pin="SCK"/>
+<pinref part="NRF24L01" gate="G$1" pin="SCK"/>
 </segment>
 <segment>
 <wire x1="91.44" y1="40.64" x2="104.14" y2="40.64" width="0.1524" layer="91"/>
@@ -3171,7 +3403,7 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 </net>
 <net name="RST" class="0">
 <segment>
-<pinref part="JP2" gate="G$1" pin="5"/>
+<pinref part="ISP" gate="G$1" pin="5"/>
 <wire x1="162.56" y1="58.42" x2="147.32" y2="58.42" width="0.1524" layer="91"/>
 <label x="147.32" y="58.42" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
@@ -3215,22 +3447,6 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <junction x="66.04" y="121.92"/>
 </segment>
 </net>
-<net name="D8" class="0">
-<segment>
-<wire x1="68.58" y1="45.72" x2="60.96" y2="45.72" width="0.1524" layer="91"/>
-<label x="60.96" y="45.72" size="1.778" layer="95" rot="R180" xref="yes"/>
-<pinref part="ARDUINO1" gate="G$1" pin="8"/>
-</segment>
-<segment>
-<pinref part="IC2" gate="G$1" pin="!CS"/>
-<wire x1="157.48" y1="33.02" x2="147.32" y2="33.02" width="0.1524" layer="91"/>
-<label x="142.24" y="33.02" size="1.778" layer="95" rot="R180" xref="yes"/>
-<pinref part="R2" gate="G$1" pin="1"/>
-<wire x1="147.32" y1="33.02" x2="142.24" y2="33.02" width="0.1524" layer="91"/>
-<wire x1="147.32" y1="35.56" x2="147.32" y2="33.02" width="0.1524" layer="91"/>
-<junction x="147.32" y="33.02"/>
-</segment>
-</net>
 <net name="D7" class="0">
 <segment>
 <wire x1="68.58" y1="48.26" x2="66.04" y2="48.26" width="0.1524" layer="91"/>
@@ -3239,7 +3455,7 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 </segment>
 <segment>
 <label x="162.56" y="91.44" size="1.778" layer="95" rot="R180" xref="yes"/>
-<pinref part="M1" gate="G$1" pin="CE"/>
+<pinref part="NRF24L01" gate="G$1" pin="CE"/>
 <wire x1="162.56" y1="91.44" x2="165.1" y2="91.44" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -3247,7 +3463,7 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <segment>
 <label x="152.4" y="78.74" size="1.778" layer="95" rot="R180" xref="yes"/>
 <wire x1="165.1" y1="78.74" x2="152.4" y2="78.74" width="0.1524" layer="91"/>
-<pinref part="M1" gate="G$1" pin="IRQ"/>
+<pinref part="NRF24L01" gate="G$1" pin="IRQ"/>
 </segment>
 <segment>
 <wire x1="68.58" y1="60.96" x2="60.96" y2="60.96" width="0.1524" layer="91"/>
@@ -3315,7 +3531,7 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <segment>
 <wire x1="30.48" y1="78.74" x2="33.02" y2="78.74" width="0.1524" layer="91"/>
 <label x="33.02" y="78.74" size="1.778" layer="95" xref="yes"/>
-<pinref part="X6" gate="-3" pin="KL"/>
+<pinref part="X2" gate="-6" pin="KL"/>
 </segment>
 </net>
 <net name="N$22" class="2">
@@ -3351,9 +3567,9 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <pinref part="ARDUINO1" gate="G$1" pin="A1"/>
 </segment>
 <segment>
-<wire x1="30.48" y1="68.58" x2="33.02" y2="68.58" width="0.1524" layer="91"/>
 <label x="33.02" y="68.58" size="1.778" layer="95" xref="yes"/>
-<pinref part="X6" gate="-1" pin="KL"/>
+<wire x1="30.48" y1="68.58" x2="33.02" y2="68.58" width="0.1524" layer="91"/>
+<pinref part="X2" gate="-4" pin="KL"/>
 </segment>
 </net>
 <net name="A2" class="0">
@@ -3363,9 +3579,9 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <pinref part="ARDUINO1" gate="G$1" pin="A2"/>
 </segment>
 <segment>
-<wire x1="30.48" y1="73.66" x2="33.02" y2="73.66" width="0.1524" layer="91"/>
 <label x="33.02" y="73.66" size="1.778" layer="95" xref="yes"/>
-<pinref part="X6" gate="-2" pin="KL"/>
+<wire x1="30.48" y1="73.66" x2="33.02" y2="73.66" width="0.1524" layer="91"/>
+<pinref part="X2" gate="-5" pin="KL"/>
 </segment>
 </net>
 <net name="A4" class="0">
@@ -3376,9 +3592,12 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 </segment>
 <segment>
 <wire x1="167.64" y1="147.32" x2="167.64" y2="142.24" width="0.1524" layer="91"/>
-<wire x1="167.64" y1="142.24" x2="170.18" y2="142.24" width="0.1524" layer="91"/>
-<label x="170.18" y="142.24" size="1.778" layer="95" xref="yes"/>
-<pinref part="U$1" gate="G$1" pin="DQ"/>
+<wire x1="167.64" y1="142.24" x2="177.8" y2="142.24" width="0.1524" layer="91"/>
+<label x="185.42" y="142.24" size="1.778" layer="95" xref="yes"/>
+<pinref part="R28" gate="G$1" pin="1"/>
+<wire x1="177.8" y1="142.24" x2="185.42" y2="142.24" width="0.1524" layer="91"/>
+<junction x="177.8" y="142.24"/>
+<pinref part="IC4" gate="G$1" pin="DQ"/>
 </segment>
 </net>
 <net name="N$5" class="0">
@@ -3442,7 +3661,7 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <wire x1="2.54" y1="129.54" x2="5.08" y2="129.54" width="0.1524" layer="91"/>
 <wire x1="5.08" y1="129.54" x2="5.08" y2="132.08" width="0.1524" layer="91"/>
 <junction x="2.54" y="129.54"/>
-<pinref part="X2" gate="-3" pin="KL"/>
+<pinref part="X1" gate="-6" pin="KL"/>
 </segment>
 </net>
 <net name="N$3" class="0">
@@ -3519,9 +3738,9 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <label x="137.16" y="142.24" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="X6" gate="-5" pin="KL"/>
 <wire x1="30.48" y1="88.9" x2="33.02" y2="88.9" width="0.1524" layer="91"/>
 <label x="33.02" y="88.9" size="1.778" layer="95" xref="yes"/>
+<pinref part="X2" gate="-8" pin="KL"/>
 </segment>
 </net>
 <net name="N$10" class="2">
@@ -3535,7 +3754,7 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <wire x1="45.72" y1="129.54" x2="48.26" y2="129.54" width="0.1524" layer="91"/>
 <wire x1="48.26" y1="129.54" x2="48.26" y2="132.08" width="0.1524" layer="91"/>
 <junction x="45.72" y="129.54"/>
-<pinref part="X3" gate="-3" pin="KL"/>
+<pinref part="X1" gate="-9" pin="KL"/>
 </segment>
 </net>
 <net name="N$11" class="0">
@@ -3582,7 +3801,7 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <wire x1="88.9" y1="129.54" x2="91.44" y2="129.54" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="129.54" x2="91.44" y2="132.08" width="0.1524" layer="91"/>
 <junction x="88.9" y="129.54"/>
-<pinref part="X4" gate="-3" pin="KL"/>
+<pinref part="X3" gate="-3" pin="KL"/>
 </segment>
 </net>
 <net name="N$16" class="0">
@@ -3629,7 +3848,7 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <wire x1="132.08" y1="129.54" x2="134.62" y2="129.54" width="0.1524" layer="91"/>
 <wire x1="134.62" y1="129.54" x2="134.62" y2="132.08" width="0.1524" layer="91"/>
 <junction x="132.08" y="129.54"/>
-<pinref part="X5" gate="-3" pin="KL"/>
+<pinref part="X2" gate="-3" pin="KL"/>
 </segment>
 </net>
 <net name="N$21" class="0">
@@ -3667,30 +3886,30 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 </net>
 <net name="N$26" class="0">
 <segment>
-<pinref part="X2" gate="-1" pin="KL"/>
 <pinref part="R10" gate="G$1" pin="2"/>
 <wire x1="-2.54" y1="144.78" x2="-2.54" y2="142.24" width="0.1524" layer="91"/>
+<pinref part="X1" gate="-4" pin="KL"/>
 </segment>
 </net>
 <net name="N$27" class="0">
 <segment>
-<pinref part="X3" gate="-1" pin="KL"/>
 <pinref part="R15" gate="G$1" pin="2"/>
 <wire x1="40.64" y1="144.78" x2="40.64" y2="142.24" width="0.1524" layer="91"/>
+<pinref part="X1" gate="-7" pin="KL"/>
 </segment>
 </net>
 <net name="N$28" class="0">
 <segment>
-<pinref part="X4" gate="-1" pin="KL"/>
 <pinref part="R20" gate="G$1" pin="2"/>
 <wire x1="83.82" y1="144.78" x2="83.82" y2="142.24" width="0.1524" layer="91"/>
+<pinref part="X3" gate="-1" pin="KL"/>
 </segment>
 </net>
 <net name="N$29" class="0">
 <segment>
-<pinref part="X5" gate="-1" pin="KL"/>
 <pinref part="R25" gate="G$1" pin="2"/>
 <wire x1="127" y1="144.78" x2="127" y2="142.24" width="0.1524" layer="91"/>
+<pinref part="X2" gate="-1" pin="KL"/>
 </segment>
 </net>
 <net name="VCC" class="1">
@@ -3700,11 +3919,15 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <pinref part="P+1" gate="VCC" pin="VCC"/>
 </segment>
 <segment>
-<pinref part="U$1" gate="G$1" pin="VCC"/>
 <wire x1="170.18" y1="147.32" x2="170.18" y2="144.78" width="0.1524" layer="91"/>
 <wire x1="170.18" y1="144.78" x2="175.26" y2="144.78" width="0.1524" layer="91"/>
-<wire x1="175.26" y1="144.78" x2="175.26" y2="154.94" width="0.1524" layer="91"/>
+<wire x1="175.26" y1="144.78" x2="175.26" y2="152.4" width="0.1524" layer="91"/>
 <pinref part="P+2" gate="VCC" pin="VCC"/>
+<pinref part="R28" gate="G$1" pin="2"/>
+<wire x1="175.26" y1="152.4" x2="175.26" y2="154.94" width="0.1524" layer="91"/>
+<wire x1="175.26" y1="152.4" x2="177.8" y2="152.4" width="0.1524" layer="91"/>
+<junction x="175.26" y="152.4"/>
+<pinref part="IC4" gate="G$1" pin="VCC"/>
 </segment>
 <segment>
 <pinref part="ARDUINO1" gate="G$1" pin="VCC"/>
@@ -3735,7 +3958,7 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <wire x1="142.24" y1="96.52" x2="142.24" y2="93.98" width="0.1524" layer="91"/>
 <wire x1="160.02" y1="93.98" x2="165.1" y2="93.98" width="0.1524" layer="91"/>
 <wire x1="160.02" y1="96.52" x2="160.02" y2="93.98" width="0.1524" layer="91"/>
-<pinref part="M1" gate="G$1" pin="VCC"/>
+<pinref part="NRF24L01" gate="G$1" pin="VCC"/>
 <wire x1="160.02" y1="93.98" x2="157.48" y2="93.98" width="0.1524" layer="91"/>
 <wire x1="157.48" y1="93.98" x2="157.48" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="157.48" y1="96.52" x2="142.24" y2="96.52" width="0.1524" layer="91"/>
@@ -3743,6 +3966,22 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <junction x="142.24" y="96.52"/>
 <junction x="160.02" y="93.98"/>
 <pinref part="P+5" gate="VCC" pin="VCC"/>
+</segment>
+</net>
+<net name="A5" class="0">
+<segment>
+<pinref part="ARDUINO1" gate="G$1" pin="A5-SCL"/>
+<wire x1="91.44" y1="55.88" x2="99.06" y2="55.88" width="0.1524" layer="91"/>
+<label x="99.06" y="55.88" size="1.778" layer="95" xref="yes"/>
+</segment>
+<segment>
+<pinref part="IC2" gate="G$1" pin="!CS"/>
+<wire x1="157.48" y1="33.02" x2="147.32" y2="33.02" width="0.1524" layer="91"/>
+<label x="142.24" y="33.02" size="1.778" layer="95" rot="R180" xref="yes"/>
+<pinref part="R2" gate="G$1" pin="1"/>
+<wire x1="147.32" y1="33.02" x2="142.24" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="147.32" y1="35.56" x2="147.32" y2="33.02" width="0.1524" layer="91"/>
+<junction x="147.32" y="33.02"/>
 </segment>
 </net>
 </nets>
