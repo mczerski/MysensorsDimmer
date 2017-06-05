@@ -2929,7 +2929,7 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <part name="R5" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="10k"/>
 <part name="R7" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="10k"/>
 <part name="IC1" library="linear" deviceset="78*" device="DT" technology="05"/>
-<part name="C2" library="SparkFun-Passives" deviceset="CAP" device="0603-CAP" value="10u"/>
+<part name="C2" library="SparkFun-Passives" deviceset="CAP" device="1206" value="10u"/>
 <part name="C3" library="SparkFun-Passives" deviceset="CAP" device="0603-CAP" value="10u"/>
 <part name="GND5" library="supply1" deviceset="GND" device=""/>
 <part name="R6" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="27"/>
@@ -2982,6 +2982,7 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <part name="X3" library="con-phoenix-508" deviceset="MKDSN1,5/3-5,08" device=""/>
 <part name="R28" library="SparkFun-Passives" deviceset="RESISTOR" device="0603-RES" value="4.7k"/>
 <part name="IC4" library="Ava" deviceset="DS1820" device=""/>
+<part name="P+6" library="supply1" deviceset="VCC" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -3171,6 +3172,7 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <attribute name="VALUE" x="181.102" y="148.59" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="IC4" gate="G$1" x="167.64" y="152.4"/>
+<instance part="P+6" gate="VCC" x="177.8" y="71.12"/>
 </instances>
 <busses>
 </busses>
@@ -3967,12 +3969,25 @@ Each DS18B20 has a unique 64-bit serial code, which allows multiple DS18B20s to 
 <junction x="160.02" y="93.98"/>
 <pinref part="P+5" gate="VCC" pin="VCC"/>
 </segment>
+<segment>
+<pinref part="ISP" gate="G$1" pin="2"/>
+<wire x1="172.72" y1="63.5" x2="177.8" y2="63.5" width="0.1524" layer="91"/>
+<pinref part="P+6" gate="VCC" pin="VCC"/>
+<wire x1="177.8" y1="63.5" x2="177.8" y2="68.58" width="0.1524" layer="91"/>
+</segment>
 </net>
 <net name="A5" class="0">
 <segment>
 <pinref part="ARDUINO1" gate="G$1" pin="A5-SCL"/>
 <wire x1="91.44" y1="55.88" x2="99.06" y2="55.88" width="0.1524" layer="91"/>
 <label x="99.06" y="55.88" size="1.778" layer="95" xref="yes"/>
+</segment>
+</net>
+<net name="D8" class="0">
+<segment>
+<pinref part="ARDUINO1" gate="G$1" pin="8"/>
+<wire x1="68.58" y1="45.72" x2="60.96" y2="45.72" width="0.1524" layer="91"/>
+<label x="60.96" y="45.72" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <pinref part="IC2" gate="G$1" pin="!CS"/>

@@ -1,0 +1,10 @@
+v1.1
+- bigger C2 capacitor
+- missing connection between R5 and R6
+- missing connection between R8 and R9
+- additional connection between ISP pin VCC and arduino pin VCC
+- move all X connecotrs further outside
+- FLASH IC pin CS connected to D* instead ov A5 Arduino pin
+
+v1.0:
+- initial version
