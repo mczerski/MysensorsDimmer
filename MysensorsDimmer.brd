@@ -177,7 +177,7 @@
 <text x="3.15" y="28.2" size="1.27" layer="21" rot="R90">S1</text>
 <text x="14.5" y="55.45" size="1.27" layer="21">MySensors Dimmer v1.1</text>
 <hole x="8.05" y="61.95" drill="3"/>
-<hole x="8.6" y="2.9" drill="3"/>
+<hole x="8.05" y="2.9" drill="3"/>
 <hole x="56.65" y="2.75" drill="3"/>
 <hole x="56.65" y="61.95" drill="3"/>
 </plain>
